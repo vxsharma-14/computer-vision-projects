@@ -10,8 +10,11 @@ computervision #panopticsegmentation #instancesegmentation
    - **Platform** - detectron2 by Facebook Research
    - **Example**:
      - Original Image: `/images/originals/example1.jpg` (Image Source: [COCO Dataset](https://farm8.staticflickr.com/7019/6743930825_20b705cc5c_z.jpg))
+       ![Original](https://github.com/vxsharma-14/computer-vision-projects/blob/main/images/originals/example1.jpg))
      - Inferred Image: `/images/output/example_panoptic.jpg`
+       ![Inferred Image](https://github.com/vxsharma-14/computer-vision-projects/blob/main/images/outputs/example_panoptic.jpg)
      - Masked Image: `/images/outputs/example_masked.jpg`
+       ![Masked Image with Transparent bg](https://github.com/vxsharma-14/computer-vision-projects/blob/main/images/outputs/example_masked.jpg)
   
 ## Setup
 
