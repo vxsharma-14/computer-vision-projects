@@ -9,9 +9,9 @@ computervision #panopticsegmentation #instancesegmentation
    - **Description**: Identifies and extracts specific objects from images using panoptic segmentation, then composites those objects onto a transparent background.
    - **Platform** - detectron2 by Facebook Research
    - **Example**:
-     - Original Image: `/images/originals/panoptic_example_image.jpg`
-     - Masked Image: `/images/masked/panoptic_example_output.jpg`
-
+     - Original Image: `/images/originals/6743930825_20b705cc5c_z.jpg` (Image Source: [COCO Dataset](https://farm8.staticflickr.com/7019/6743930825_20b705cc5c_z.jpg))
+     - Inferred Image: `/images/output/example_panoptic.jpg`
+     - Masked Image: `/images/outputs/example_masked.jpg`
   
 ## Setup
 
